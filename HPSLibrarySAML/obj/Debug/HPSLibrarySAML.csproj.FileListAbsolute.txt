@@ -1,0 +1,4 @@
+c:\Users\technology-pc\documents\visual studio 2015\Projects\saml\HPSLibrarySAML\bin\Debug\HPSLibrarySAML.dll
+c:\Users\technology-pc\documents\visual studio 2015\Projects\saml\HPSLibrarySAML\bin\Debug\HPSLibrarySAML.pdb
+c:\Users\technology-pc\documents\visual studio 2015\Projects\saml\HPSLibrarySAML\obj\Debug\HPSLibrarySAML.dll
+c:\Users\technology-pc\documents\visual studio 2015\Projects\saml\HPSLibrarySAML\obj\Debug\HPSLibrarySAML.pdb
